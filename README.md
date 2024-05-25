@@ -4,6 +4,7 @@
 <h3 align="center">I am a Student, Coder and a Data Science Enthusiast</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/SxJQcg2-UGkAAAAC/working-from.gif"
+<p align="left">
 
 - 🧑 I love writing code in Python and in Golang :)
 - ⚡ Checkout my Recent Project : https://shorturl.at/wKhOG
