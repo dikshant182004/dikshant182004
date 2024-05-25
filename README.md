@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=aryank-08&label=Profile%20views&color=0e75b6&style=flat" alt="dikshant182004" /> </p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poetsen+One&weight=900&size=45&duration=4000&pause=1000&color=0AF7E5&background=FFFFFE00&center=true&vCenter=true&random=false&width=1000&height=99&lines=Hi+%F0%9F%91%8B%2C+I'm+Dikshant+Jha+!!!" alt="Typing SVG" /></a>
-<h3 align="center" style="font-family: 'Roboto', sans-serif; color: #ff5722; font-size: 28px; font-weight: bold; text-shadow: 1px 1px 2px rgba(0,0,0,0.4);">I am a <span style="color: #009688;">Student</span>, <span style="color: #673ab7;">Coder</span>, and <span style="color: #ff9800;">Data Science Enthusiast</span></h3>
+<h3 align="center" style="font-family: 'Roboto', sans-serif; font-size: 28px; font-weight: bold; text-shadow: 1px 1px 2px rgba(0,0,0,0.4);">I am a <span style="color: #ff5722;">Student</span>, <span style="color: #009688;">Coder</span>, and <span style="color: #673ab7;">Data Science Enthusiast</span></h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/SxJQcg2-UGkAAAAC/working-from.gif"
 
