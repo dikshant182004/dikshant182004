@@ -1,20 +1,34 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=aryank-08&label=Profile%20views&color=0e75b6&style=flat" alt="dikshant182004" /> </p>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poetsen+One&weight=900&size=45&duration=4000&pause=1000&color=0AF7E5&background=FFFFFE00&center=true&vCenter=true&random=false&width=1000&height=99&lines=Hi+%F0%9F%91%8B%2C+I'm+Dikshant+Jha+!!!" alt="Typing SVG" /></a>
+## 💫 About Me:
 <h3 align="center">I am a Student, Coder and a Data Science Enthusiast</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/SxJQcg2-UGkAAAAC/working-from.gif">
 
-- 🧑 I love writing code in Python and  Golang :)
-- 🔭 I’m currently working on: Java | Python | SQL | Data Visualization | Data Analysis.
-- 🌱 I’m currently learning **MACHINE LEARNING | GOLANG **
-- 👯 I’m looking to collaborate on: Developing new and intriguing open-source projects, with the community and for the community
-- ⚡ Checkout my Recent Project : https://shorturl.at/wKhOG
-- 💬 Ask me about **PYTHON, JAVA  or anything related to DATA ANALYTICS [here](https://github.com/dikshant182004/dikshant182004/issues)**
+- 🧑 I love writing code in `Python` and  `Golang` :)
+- 🔭 Working on: Java | Python | SQL | Data Visualization | Data Analysis.
+- ☸️ I have a keen interest in `Open Source` and `DATA SCIENCE`.
+- 🌱 I’m currently learning `MACHINE LEARNING` | `GOLANG `
+- 👯 Looking to collaborate on: Developing new and intriguing open-source projects.
+- 💬 Ask me about **PYTHON, JAVA  or anything related to `DATA ANALYTICS` [here](https://github.com/dikshant182004/dikshant182004/issues)**
 - 📫 How to reach me [dikshant182004@gmail.com](dikshant182004@gmail.com)
-- 🤓 Active User at: GitHub | LinkedIn
+- 🤓 Active User at: `GitHub` | `LinkedIn`
           
-
+<h2> Connect with me on 👇</h2>
+<a href="https://www.linkedin.com/in/muskan-rani-980553188/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn--blue" />
+</a>
+<a href="https://www.hackerrank.com/MuskanRani" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank--darkgreen" ;></img></a>
+</a> 
+<a href="https://twitter.com/_muskan_gupta_" target="_blank">
+<img src="https://img.shields.io/badge/Twitter--blue" />
+</a>
+</a> 
+<a href="https://leetcode.com/Muskan_Rani/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode--blue" />
+</a>
 ###
 
 <div align="center">
