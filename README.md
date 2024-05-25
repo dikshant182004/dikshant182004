@@ -1,7 +1,5 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=aryank-08&label=Profile%20views&color=0e75b6&style=flat" alt="dikshant182004" /> </p>
-<h1 align="center">
-    <img src="[https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi 👋,;+I'm+Dikshant+Jha!;](https://readme-typing-svg.demolab.com?font=Radio+Canada+Big&weight=900&size=26&duration=4000&pause=1000&color=02F7F4&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Dikshant+Jha!)](https://git.io/typing-svg)" />
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Radio+Canada+Big&weight=900&size=26&duration=4000&pause=1000&color=02F7F4&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Dikshant+Jha!)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Dikshant Jha</h1>
 <h3 align="center">I am a Student, Coder and a Data Science Enthusiast</h3>
