@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/SxJQcg2-UGkAAAAC/working-from.gif"
 
 - 🧑 I love writing code in Python and in Golang :)
-- 🔭 I’m currently working on a new project which you can see **(https://github.com/dikshant182004/InsightHub)**
+- ⚡ Checkout my Recent Project : https://shorturl.at/wKhOG
      
 - 📫 How to reach me [dikshant182004@gmail.com](dikshant182004@gmail.com)
           
