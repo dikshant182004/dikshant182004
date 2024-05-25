@@ -17,21 +17,9 @@
 - 🤓 Active User at: `GitHub` | `LinkedIn`.
 - ⚡ Fun fact: Did you know that `data scientists` spend approximately 80% of their time cleaning and preparing data, and only 20% of their time actually analyzing it? It's like being a `detective`, but instead of solving crimes, you're solving `data mysteries`!.
           
-<h2> Connect with me on 👇</h2>
-<a href="https://www.linkedin.com/in/muskan-rani-980553188/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn--blue" />
-</a>
-<a href="https://www.hackerrank.com/MuskanRani" target="_blank">
-<img src="https://img.shields.io/badge/HackerRank--darkgreen" ;></img></a>
-</a> 
-<a href="https://twitter.com/_muskan_gupta_" target="_blank">
-<img src="https://img.shields.io/badge/Twitter--blue" />
-</a>
-</a> 
-<a href="https://leetcode.com/Muskan_Rani/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode--blue" />
-</a>
-###
+## Connect with me on 👇 :
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dikshant182022/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dikshant-jha-a7b65624a/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dikshant182004) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Dikshantjha2) 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
