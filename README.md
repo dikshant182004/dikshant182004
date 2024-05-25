@@ -5,9 +5,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/SxJQcg2-UGkAAAAC/working-from.gif">
 
-- 🧑 I love writing code in Python and in Golang :)
+- 🧑 I love writing code in Python and  Golang :)
+- 🌱 I’m currently learning **MACHINE LEARNING , GOLANG**
 - ⚡ Checkout my Recent Project : https://shorturl.at/wKhOG
-     
 - 📫 How to reach me [dikshant182004@gmail.com](dikshant182004@gmail.com)
           
 
