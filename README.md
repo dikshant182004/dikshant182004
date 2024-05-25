@@ -6,9 +6,13 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/SxJQcg2-UGkAAAAC/working-from.gif">
 
 - 🧑 I love writing code in Python and  Golang :)
-- 🌱 I’m currently learning **MACHINE LEARNING , GOLANG**
+- 🔭 I’m currently working on: Java | Python | SQL | Data Visualization | Data Analysis.
+- 🌱 I’m currently learning **MACHINE LEARNING | GOLANG **
+- 👯 I’m looking to collaborate on: Developing new and intriguing open-source projects, with the community and for the community
 - ⚡ Checkout my Recent Project : https://shorturl.at/wKhOG
+- 💬 Ask me about **PYTHON, JAVA  or anything related to DATA ANALYTICS [here](https://github.com/dikshant182004/dikshant182004/issues)**
 - 📫 How to reach me [dikshant182004@gmail.com](dikshant182004@gmail.com)
+- 🤓 Active User at: GitHub | LinkedIn
           
 
 ###
