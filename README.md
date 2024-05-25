@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poetsen+One&weight=900&size=45&duration=4000&pause=1000&color=0AF7E5&background=FFFFFE00&center=true&vCenter=true&random=false&width=1000&height=99&lines=Hi+%F0%9F%91%8B%2C+I'm+Dikshant+Jha+!!!" alt="Typing SVG" /></a>
 ## 💫 About Me:
 
-<h3 align="center">I am a Student, Coder and a Data Science Enthusiast</h3>
+<h3 align="center">I am a Student, Coder and a Data Science Enthusiast.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/SxJQcg2-UGkAAAAC/working-from.gif">
 
@@ -12,9 +12,10 @@
 - ☸️ I have a keen interest in `Open Source` and `DATA SCIENCE`.
 - 🌱 I’m currently learning `MACHINE LEARNING` | `GOLANG `
 - 👯 Looking to collaborate on new `open-source projects`.
-- 💬 Ask me about **`PYTHON`, `JAVA`  or anything related to `DATA ANALYTICS` [here](https://github.com/dikshant182004/dikshant182004/issues)**
-- 📫 How to reach me [dikshant182004@gmail.com](dikshant182004@gmail.com)
-- 🤓 Active User at: `GitHub` | `LinkedIn`
+- 💬 Ask me about **`PYTHON`, `JAVA`  or anything related to `DATA ANALYTICS` [here](https://github.com/dikshant182004/dikshant182004/issues)**.
+- 📫 How to reach me [dikshant182004@gmail.com](dikshant182004@gmail.com).
+- 🤓 Active User at: `GitHub` | `LinkedIn`.
+- ⚡ Fun fact: Did you know that data scientists spend approximately 80% of their time cleaning and preparing data, and only 20% of their time actually analyzing it? It's like being a detective, but instead of solving crimes, you're solving data mysteries!.
           
 <h2> Connect with me on 👇</h2>
 <a href="https://www.linkedin.com/in/muskan-rani-980553188/" target="_blank">
