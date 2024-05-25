@@ -26,6 +26,15 @@
     <a href="https://x.com/Dikshantjha2"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" style="width: 120px;"></a>
 </div>
 
+# 💻 Tech Stack:
+
+_Favorite programming language: Astro :snake:._  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,python,java,c,c++,numpy" />
+  </a>
+</p>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
