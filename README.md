@@ -10,7 +10,7 @@
 - 🧑 I love writing code in `Python` and  `Golang` :)
 - 🔭 Working on: Java | Python | SQL | Data Visualization | Data Analysis.
 - ☸️ I have a keen interest in `Open Source` and `DATA SCIENCE`.
-- 🌱 I’m currently learning `MACHINE LEARNING` | `GOLANG `
+- 🌱 I’m currently learning `MACHINE LEARNING` | `GOLANG `.
 - 👯 Looking to collaborate on new `open-source projects`.
 - 💬 Ask me about **`PYTHON`, `JAVA`  or anything related to `DATA ANALYTICS` [here](https://github.com/dikshant182004/dikshant182004/issues)**.
 - 📫 How to reach me [dikshant182004@gmail.com](dikshant182004@gmail.com).
@@ -19,7 +19,8 @@
           
 ## Connect with me on 👇 :
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dikshant182022/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dikshant-jha-a7b65624a/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dikshant182004) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Dikshantjha2) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dikshant182022/)   
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dikshant-jha-a7b65624a/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dikshant182004) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Dikshantjha2) 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
