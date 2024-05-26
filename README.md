@@ -42,6 +42,10 @@ _Favorite programming language: Astro :snake:._
 </div>
 
 ![Example GIF](golang_jump.gif)
+<div style="float: right;">
+    <img height="150" src="golang_jump.gif" />
+</div>
+
 ###
 
 <img align="right" height="150" src="[golang_jump.gif](https://github.com/dikshant182004/dikshant182004/blob/main/golang_jump.gif)f"  />
