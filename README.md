@@ -44,7 +44,7 @@ _Favorite programming language: Astro :snake:._
 ![Example GIF](golang_jump.gif)
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="golang_jump.giff"  />
 
 ###
 
