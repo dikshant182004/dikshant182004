@@ -1,4 +1,4 @@
-<div align="center">
+<div align="right">
 <img src="https://komarev.com/ghpvc/?username=dikshant182004&&style=flat-square" align="center" />
 &nbsp;
 <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Ddikshant182004&longCache=true" align="center" />
