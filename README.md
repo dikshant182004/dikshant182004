@@ -1,3 +1,5 @@
+<br>
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=dikshant182004&&style=flat-square" align="center" />
 &nbsp;
@@ -22,6 +24,8 @@
 - 📫 How to reach me [dikshant182004@gmail.com](dikshant182004@gmail.com).
 - 🤓 Active User at: `GitHub` | `LinkedIn`.
 - ⚡ Fun fact: Did you know that `data scientists` spend approximately 80% of their time cleaning and preparing data, and only 20% of their time actually analyzing it? It's like being a `detective`, but instead of solving crimes, you're solving `data mysteries`!.
+
+<br/>
           
 ## Connect with me on 👇 :
 
