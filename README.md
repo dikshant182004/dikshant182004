@@ -1,9 +1,9 @@
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=dikshant182004&&style=flat-square" align="right" />
 &nbsp;
-<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Ddikshant182004&longCache=true" align="center" />
+<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Ddikshant182004&longCache=true" align="right" />
 &nbsp;
-<img src="https://img.shields.io/github/stars/dikshant182004?label=Stars" alt="stars" align="center">
+<img src="https://img.shields.io/github/stars/dikshant182004?label=Stars" alt="stars" align="right">
 </div>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poetsen+One&weight=900&size=45&duration=4000&pause=1000&color=0AF7E5&background=FFFFFE00&center=true&vCenter=true&random=false&width=1000&height=99&lines=Hi+%F0%9F%91%8B%2C+I'm+Dikshant+Jha+!!!" alt="Typing SVG" /></a>
