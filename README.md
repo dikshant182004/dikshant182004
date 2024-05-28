@@ -89,12 +89,6 @@ This is a list of my most recent activity on GitHub.
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p align="center">
-    <b>Looking for a software engineering intern?
-        <a href="https://www.linkedin.com/in/dikshant-jha-a7b65624a/">Let's connect and talk!</a>
-    </b>
-</p>
-
 
 ###
 
