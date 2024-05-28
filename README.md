@@ -31,12 +31,12 @@
 ## Connect with me on 👇 :
 
 <div align="center">
-    <a href="https://www.instagram.com/dikshant182022/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="Instagram" style="margin-right: 20px; width: 120px; height: 43px;"></a>
-    <a href="https://www.linkedin.com/in/dikshant-jha-a7b65624a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 20px; width: 120px; height: 43px;"></a>
-    <a href="https://medium.com/@dikshant182004"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium" style="margin-right: 20px; width: 120px; height: 43px;"></a>
-    <a href="https://x.com/Dikshantjha2"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" style="width: 120px; height: 43px;"></a>
-    <a href="mailto:dikshant182004@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail" style="width: 120px; height: 43px;"></a>
-    <a href="https://discord.com/channels/@me"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="Medium" style="margin-right: 20px; width: 120px; height: 43px;"></a>
+    <a href="https://www.instagram.com/dikshant182022/"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
+    <a href="https://www.linkedin.com/in/dikshant-jha-a7b65624a/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+    <a href="https://medium.com/@dikshant182004"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" height="35" alt="Medium" ></a>
+    <a href="https://x.com/Dikshantjha2"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" height="35" alt="Twitter" ></a>
+    <a href="mailto:dikshant182004@gmail.com">  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+    <a href="https://discord.com/channels/@me"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
 </div>
 
 
@@ -57,7 +57,8 @@ _Other skills: :paintbrush: drawing, 🏀 basketball ,🏞️  interacting with 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dikshant182004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 <br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dikshant182004&theme=shades-of-purple&hide_border=false)<br/>
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=dikshant182004&theme=shades-of-purple&hide_border=false)<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dikshant182004&theme=shades-of-purple&hide_border=false" alt="Githubstreak" />
 <img src="https://myreadme.vercel.app/api/embed/dikshant182004?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <div style="float: left;">
