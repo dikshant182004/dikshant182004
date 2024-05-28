@@ -1,30 +1,29 @@
 <br>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=dikshant182004&&style=flat-square" align="center" />
-&nbsp;
-<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Ddikshant182004&longCache=true" align="center" />
-&nbsp;
-<img src="https://img.shields.io/github/stars/dikshant182004?label=Stars" alt="stars" align="center">
+    <img src="https://komarev.com/ghpvc/?username=dikshant182004&&style=flat-square" align="center" />
+    &nbsp;
+    <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Ddikshant182004&longCache=true" align="center" />
+    &nbsp;
+    <img src="https://img.shields.io/github/stars/dikshant182004?label=Stars" alt="stars" align="center">
 </div>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poetsen+One&weight=900&size=45&duration=4000&pause=1000&color=0AF7E5&background=FFFFFE00&center=true&vCenter=true&random=false&width=1000&height=99&lines=Hi+%F0%9F%91%8B%2C+I'm+Dikshant+Jha+!!!" alt="Typing SVG" /></a>
+
 ## 💫 About Me:
-
-<h3 align="center" style="text-decoration: underline; font-weight: bold;">I am a Student, Coder and a Data Science Enthusiast.</h3>
-
+### **I am a Student, Coder and a Data Science Enthusiast.**
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/SxJQcg2-UGkAAAAC/working-from.gif">
 
-- 🧑 I love writing code in `Python` and  `Golang` :)
+- 🧑 I love writing code in `Python` and `Golang`.
 - 🔭 Working on: Java | Python | SQL | Data Visualization | Data Analysis.
 - ☸️ I have a keen interest in `Open Source` and `DATA SCIENCE`.
-- 🌱 I’m currently learning `MACHINE LEARNING` | `GOLANG `.
+- 🌱 I’m currently learning `MACHINE LEARNING` | `GOLANG`.
 - 👯 Looking to collaborate on new `open-source projects`.
-- 💬 Ask me about **`PYTHON`, `JAVA`  or anything related to `DATA ANALYTICS` [here](https://github.com/dikshant182004/dikshant182004/issues)**.
-- 📫 How to reach me [dikshant182004@gmail.com](dikshant182004@gmail.com).
+- 💬 Ask me about **`PYTHON`, `JAVA` or anything related to `DATA ANALYTICS` [here](https://github.com/dikshant182004/dikshant182004/issues)**.
+- 📫 How to reach me [dikshant182004@gmail.com](mailto:dikshant182004@gmail.com).
 - 🤓 Active User at: `GitHub` | `LinkedIn`.
-- ⚡ Fun fact: Did you know that `data scientists` spend approximately 80% of their time cleaning and preparing data, and only 20% of their time actually analyzing it? It's like being a `detective`, but instead of solving crimes, you're solving `data mysteries`!.
+- ⚡ Fun fact: Did you know that `data scientists` spend approximately 80% of their time cleaning and preparing data, and only 20% of their time actually analyzing it? It's like being a `detective`, but instead of solving crimes, you're solving `data mysteries`!
 
 <br/>
           
@@ -39,51 +38,48 @@
     <a href="https://discord.com/channels/@me"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
 </div>
 
-
 # 💻 Tech Stack:
 
 _Favorite programming language: python :snake:._  
 _Other skills: :paintbrush: drawing, 🏀 basketball ,🏞️  interacting with nature _
-<div style="float: left;">
-    <img height="150" src="golang_jump.gif" />
-</div>
-<p align="center">
+
+<img height="150" src="golang_jump.gif" align="right"/>
+
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,python,java,c,c++,numpy" />
   </a>
-</p>
+</div>
 
 # 📊 GitHub Stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dikshant182004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dikshant182004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dikshant182004&theme=shades-of-purple&hide_border=false" alt="Githubstreak" />
-<img src="https://myreadme.vercel.app/api/embed/dikshant182004?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />
-<a href="https://stats.quine.sh/dikshant182004/dependencies?theme=dark"><img src="https://quine.sh?utm_source=widgets&utm_campaign=dikshant182004" alt="reimaginedreadme" /></a>
-
-![Dikshant's GitHub | Dependencies](https://stats.quine.sh/dikshant182004/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=dikshant182004)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dikshant182004&theme=shades-of-purple&hide_border=false" alt="Githubstreak" />
+  <img src="https://myreadme.vercel.app/api/embed/dikshant182004?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />
+  <a href="https://stats.quine.sh/dikshant182004/dependencies?theme=dark">
+    <img src="https://stats.quine.sh/dikshant182004/dependencies?theme=dark" alt="Dikshant's GitHub | Dependencies" />
+  </a>
 </div>
-
-
 
 [![Dikshant's GitHub | Topics Over Time](https://stats.quine.sh/dikshant182004/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=dikshant182004)
 
 [![Dikshant's GitHub | Languages Over Time](https://stats.quine.sh/dikshant182004/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=dikshant182004)
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Dikshant's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=dikshant182004&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="Dikshant's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=dikshant182004&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+</a>
   
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dikshant182004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ###
 
-<img align="right" height="150" src="[golang_jump.gif](https://github.com/dikshant182004/dikshant182004/blob/main/golang_jump.gif)f"  />
-
-
-
+<img align="right" height="150" src="golang_jump.gif"  />
 
 ###
+
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br clear="both">
 
