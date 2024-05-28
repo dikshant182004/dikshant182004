@@ -43,7 +43,9 @@
 _Favorite programming language: python :snake:._  
 _Other skills: :paintbrush: drawing, 🏀 basketball ,🏞️  interacting with nature _
 
-<img height="150" src="golang_jump.gif" align="right"/>
+<div style="float: left;">
+    <img height="150" src="golang_jump.gif" />
+</div>
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -74,16 +76,12 @@ _Other skills: :paintbrush: drawing, 🏀 basketball ,🏞️  interacting with 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dikshant182004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-###
-
-<img align="right" height="150" src="golang_jump.gif"  />
 
 ###
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 <img src="https://raw.githubusercontent.com/dikshant182004/dikshant182004/output/snake.svg" alt="Snake animation" />
 
 ###
