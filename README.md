@@ -44,6 +44,9 @@
 
 _Favorite programming language: python :snake:._  
 _Other skills: :paintbrush: drawing, 🏀 basketball ,🏞️  interacting with nature _
+<div style="float: left;">
+    <img height="150" src="golang_jump.gif" />
+</div>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,python,java,c,c++,numpy" />
@@ -58,35 +61,27 @@ _Other skills: :paintbrush: drawing, 🏀 basketball ,🏞️  interacting with 
 </div>
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dikshant182004&theme=shades-of-purple&hide_border=false" alt="Githubstreak" />
+</div>
+<div align ="center">
 <img src="https://myreadme.vercel.app/api/embed/dikshant182004?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 </div>
-<div style="float: left;">
-    <img height="150" src="golang_jump.gif" />
-</div>
+<img src="https://myreadme.vercel.app/api/embed/Vishalk91-4?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+[![Dikshant's GitHub | Dependencies](https://stats.quine.sh/dikshant182004/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=dikshant182004)
+
+[![Dikshant's GitHub | Topics Over Time](https://stats.quine.sh/dikshant182004/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=dikshant182004)
+
+[![Dikshant's GitHub | Languages Over Time](https://stats.quine.sh/dikshant182004/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=dikshant182004)
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Dikshant's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=dikshant182004&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dikshant182004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ###
 
 <img align="right" height="150" src="[golang_jump.gif](https://github.com/dikshant182004/dikshant182004/blob/main/golang_jump.gif)f"  />
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
 
 
 
