@@ -11,6 +11,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poetsen+One&weight=900&size=45&duration=4000&pause=1000&color=0AF7E5&background=FFFFFE00&center=true&vCenter=true&random=false&width=1000&height=99&lines=Hi+%F0%9F%91%8B%2C+I'm+Dikshant+Jha+!!!" alt="Typing SVG" /></a>
 ## 💫 About Me:
 
+### <u>**I am a Student, Coder and a Data Science Enthusiast.**</u>
 <h3 align="center" style="text-decoration: underline; font-weight: bold;">I am a Student, Coder and a Data Science Enthusiast.</h3>
 
 
