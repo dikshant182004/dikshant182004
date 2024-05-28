@@ -44,7 +44,7 @@ _Favorite programming language: python :snake:._
 _Other skills: :paintbrush: drawing, 🏀 basketball ,🏞️  interacting with nature _
 
 <div style="float: left;">
-    <img height="150" src="golang_jump.gif" />
+    <img height="150" src="assets" />
 </div>
 
 <div align="center">
