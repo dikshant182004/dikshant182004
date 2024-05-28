@@ -98,5 +98,6 @@ _Other skills: :paintbrush: drawing, 🏀 basketball ,🏞️  interacting with 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/dikshant182004/dikshant182004/output/snake.svg" alt="Snake animation" />
 
 ###
