@@ -58,16 +58,25 @@ _Other skills: :paintbrush: drawing, 🏀 basketball ,🏞️  interacting with 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dikshant182004&theme=shades-of-purple&hide_border=false" alt="Githubstreak" />
   <img src="https://myreadme.vercel.app/api/embed/dikshant182004?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />
+    <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=122460149" target="_blank">
+  <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=122460149&image_size=auto&color_scheme=dark" width="770" height="auto" alt="Dashboard stats of @dikshant182004">
+</a>
+  <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=116670999&activity_type=all" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=116670999&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="auto">
+    <img alt="@Dikshant's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=116670999&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
+  </picture>
+</a>
 
 [![Dikshant's GitHub | Topics Over Time](https://stats.quine.sh/dikshant182004/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=dikshant182004)
-  
-</div>
 
 [![Dikshant's GitHub | Languages Over Time](https://stats.quine.sh/dikshant182004/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=dikshant182004)
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img alt="Dikshant's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=dikshant182004&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </a>
+  
+</div>
   
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dikshant182004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
