@@ -42,7 +42,8 @@
 
 # 💻 Tech Stack:
 
-_Favorite programming language: Astro :snake:._  
+_Favorite programming language: python :snake:._  
+_Other skills: :paintbrush: drawing, 🏀 basketball ,🏞️  interacting with nature _
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,python,java,c,c++,numpy" />
