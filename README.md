@@ -54,6 +54,7 @@ _Other skills: :paintbrush: drawing, 🏀 basketball ,🏞️  interacting with 
 </div>
 
 # 📊 GitHub Stats:
+This is a list of my most recent activity on GitHub.
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dikshant182004&theme=shades-of-purple&hide_border=false" alt="Githubstreak" />
@@ -84,6 +85,15 @@ _Other skills: :paintbrush: drawing, 🏀 basketball ,🏞️  interacting with 
   
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dikshant182004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<p align="center">
+    <b>Looking for a software engineering intern?
+        <a href="https://www.linkedin.com/in/dikshant-jha-a7b65624a/">Let's connect and talk!</a>
+    </b>
+</p>
 
 
 ###
