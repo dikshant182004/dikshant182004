@@ -1,4 +1,10 @@
 <br>
+## Popular Repositories
+
+1. [Repository 1](https://github.com/dikshant182004/DATA-GLIMPSE) - Description of Repository 1.
+2. [Repository 2](link-to-repository2) - Description of Repository 2.
+3. [Repository 3](link-to-repository3) - Description of Repository 3.
+
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=dikshant182004&&style=flat-square" align="center" />
