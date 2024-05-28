@@ -23,7 +23,7 @@
 - 💬 Ask me about **`PYTHON`, `JAVA` or anything related to `DATA ANALYTICS` [here](https://github.com/dikshant182004/dikshant182004/issues)**.
 - 📫 How to reach me [dikshant182004@gmail.com](mailto:dikshant182004@gmail.com).
 - 🤓 Active User at: `GitHub` | `LinkedIn`.
-- ⚡ Fun fact: Did you know that `data scientists` spend approximately 80% of their time cleaning and preparing data, and only 20% of their time actually analyzing it? It's like being a `detective`, but instead of solving crimes, you're solving `data mysteries`!
+- ⚡ Fun fact: Did you know that `data scientists` spend approximately 80% of their time cleaning and preparing data, and only 20% of their time actually analyzing it? It's like being a `detective`, but instead of solving crimes, you're solving `data mysteries`.
 
 <br/>
           
