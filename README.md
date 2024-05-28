@@ -59,11 +59,9 @@ _Other skills: :paintbrush: drawing, 🏀 basketball ,🏞️  interacting with 
   <img src="https://github-readme-stats.vercel.app/api?username=dikshant182004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dikshant182004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dikshant182004&theme=shades-of-purple&hide_border=false" alt="Githubstreak" />
-  <img src="https://myreadme.vercel.app/api/embed/dikshant182004?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />
+  <img src="https://myreadme.vercel.app/api/embed/dikshant182004?panels=userstatistics,starrepositoriestoplanguages,commitgraph" alt="reimaginedreadme" />
   
 </div>
-
-[![Dikshant's GitHub | Dependencies](https://stats.quine.sh/dikshant182004/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=dikshant182004)
 
 [![Dikshant's GitHub | Topics Over Time](https://stats.quine.sh/dikshant182004/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=dikshant182004)
 
