@@ -30,12 +30,12 @@
 ## Connect with me on 👇 :
 
 <div align="center">
-    <a href="https://www.instagram.com/dikshant182022/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="Instagram" style="margin-right: 20px; width: 120px; height: 120px;"></a>
-    <a href="https://www.linkedin.com/in/dikshant-jha-a7b65624a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 20px; width: 120px; height: 120px;"></a>
-    <a href="https://medium.com/@dikshant182004"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium" style="margin-right: 20px; width: 120px; height: 120px;"></a>
-    <a href="https://x.com/Dikshantjha2"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" style="width: 120px; height: 120px;"></a>
-    <a href="mailto:dikshant182004@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail" style="width: 120px; height: 120px;"></a>
-    <a href="https://discord.com/channels/@me"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="Medium" style="margin-right: 20px; width: 120px; height: 120px;"></a>
+    <a href="https://www.instagram.com/dikshant182022/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="Instagram" style="margin-right: 20px; width: 120px; height: 50px;"></a>
+    <a href="https://www.linkedin.com/in/dikshant-jha-a7b65624a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 20px; width: 120px; height: 50px;"></a>
+    <a href="https://medium.com/@dikshant182004"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium" style="margin-right: 20px; width: 120px; height: 50px;"></a>
+    <a href="https://x.com/Dikshantjha2"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" style="width: 120px; height: 50px;"></a>
+    <a href="mailto:dikshant182004@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail" style="width: 120px; height: 50px;"></a>
+    <a href="https://discord.com/channels/@me"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="Medium" style="margin-right: 20px; width: 120px; height: 50px;"></a>
 </div>
 
 
