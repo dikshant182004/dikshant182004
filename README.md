@@ -128,10 +128,4 @@ This is a list of my most recent activity on GitHub.
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br clear="both">
 
-<div align="center">
-  <h2>🐍 Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</div>
-<h2 align="center">Leetcode Info<h2>
-<p align="center"> 
 ###
