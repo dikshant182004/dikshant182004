@@ -48,7 +48,7 @@ _Other skills: :paintbrush: drawing, 🏀 basketball ,🏞️  interacting with 
 <div style="float: left;">
     <img height="135" src="assets/golang_jump.gif" />
     <p align="center">
-    <img src="https://img.shields.io/badge/Machine Learning-orange">  <img src="https://img.shields.io/badge/Data Analysis-magenta"> <img src="https://img.shields.io/badge/Natural Language Processing-green"> 
+    <img src="https://img.shields.io/badge/Machine Learning-orange">  <img src="https://img.shields.io/badge/Data Analysis-magenta"> <img src="https://img.shields.io/badge/Natural Language Processing-Dark-blue"> 
     <p align ="center">
         <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
         <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
