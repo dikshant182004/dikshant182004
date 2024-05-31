@@ -96,8 +96,10 @@ This is a list of my most recent activity on GitHub.
   </picture>
 </a>
 
-    
+ <!--   
+ if u want you can add this
 [![Dikshant's GitHub | Topics Over Time](https://stats.quine.sh/dikshant182004/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=dikshant182004)
+-->
 
 <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?period=all_times&user_id=122460149" target="_blank" style="display: block" align="center">
   <picture>
